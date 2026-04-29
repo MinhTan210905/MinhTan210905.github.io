@@ -101,8 +101,8 @@ const educationInfo = {
       logo: "",
       subHeader:
         "Song ngành: Cử nhân Công nghệ Thông tin & Cử nhân Sư phạm Tin học",
-      duration: "2022 - Nay",
-      desc: "Tham gia NCKH cấp trường. Áp dụng tư duy Creative Technologist để giải quyết bài toán giáo dục."
+      duration: "2023 - Nay",
+      desc: "Tham gia NCKH cấp khoa. Áp dụng tư duy Creative Technologist để giải quyết bài toán giáo dục."
     }
   ]
 };
