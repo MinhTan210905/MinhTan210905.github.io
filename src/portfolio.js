@@ -100,10 +100,9 @@ const educationInfo = {
     {
       schoolName: "Trường Đại học Sư phạm TP. Hồ Chí Minh (HCMUE)",
       logo: "https://raw.githubusercontent.com/MinhTan210905/MinhTan210905.github.io/master/public/logo_truong.png",
-      subHeader:
-        "Song ngành: Cử nhân Công nghệ Thông tin & Cử nhân Sư phạm Tin học",
+      subHeader: "Song ngành: Công nghệ Thông tin & Sư phạm Tin học",
       duration: "2023 - Nay",
-      desc: "Tham gia NCKH cấp khoa. Áp dụng tư duy Creative Technologist để giải quyết bài toán giáo dục."
+      desc: "Tham gia NCKH cấp khoa. Áp dụng tư duy Creative Technologist để giải quyết bài toán"
     }
   ]
 };
