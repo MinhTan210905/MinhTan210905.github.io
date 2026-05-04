@@ -22,7 +22,8 @@ const illustration = {
 /* seo */
 const seo = {
   title: "Bùi Minh Tân | Portfolio",
-  description: "Portfolio cá nhân của Bùi Minh Tân - Sinh viên Song ngành CNTT & Sư phạm Tin học HCMUE.",
+  description:
+    "Portfolio cá nhân của Bùi Minh Tân - Sinh viên Song ngành CNTT & Sư phạm Tin học HCMUE.",
   og: {
     title: "Bùi Minh Tân Portfolio",
     type: "website",
@@ -126,7 +127,8 @@ const bigProjects = {
     },
     {
       projectName: "EV Routing System",
-      projectDesc: "Hệ thống tìm đường trạm sạc xe điện tối ưu. Công nghệ: Python, Streamlit, A*/Dijkstra",
+      projectDesc:
+        "Hệ thống tìm đường trạm sạc xe điện tối ưu. Công nghệ: Python, Streamlit, A*/Dijkstra",
       footerLink: []
     },
     {
