@@ -30,11 +30,11 @@ Dự án này được xây dựng dựa trên nền tảng **React.js** với m
 
 | Trang chủ (Hero Section) | Dự án (Projects) |
 | :---: | :---: |
-| ![Home Screenshot](https://raw.githubusercontent.com/MinhTan210905/MinhTan210905.github.io/master/public/android-chrome-384x384.png) | ![Projects Screenshot](https://via.placeholder.com/400x250?text=Projects+Section) |
+| ![Home Screenshot](https://raw.githubusercontent.com/MinhTan210905/MinhTan210905.github.io/master/public/android-chrome-384x384.png) | ![Projects Screenshot](https://placehold.co/400x250?text=Projects+Section) |
 
 | Chứng chỉ (Certifications) | Thông tin liên hệ |
 | :---: | :---: |
-| ![Certs Screenshot](https://via.placeholder.com/400x250?text=Certifications) | ![Contact Screenshot](https://via.placeholder.com/400x250?text=Contact+Section) |
+| ![Certs Screenshot](https://placehold.co/400x250?text=Certifications) | ![Contact Screenshot](https://placehold.co/400x250?text=Contact+Section) |
 
 > **Lưu ý:** Bạn có thể thay thế các link ảnh trên bằng ảnh chụp màn hình thực tế sau khi đã deploy.
 
