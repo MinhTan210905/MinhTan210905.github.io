@@ -25,18 +25,8 @@ Dự án này được xây dựng dựa trên nền tảng **React.js** với m
 4.  **Tích hợp SEO:** Tối ưu hóa các thẻ meta, tiêu đề để website có thứ hạng tốt trên công cụ tìm kiếm.
 5.  **Deployment:** Tự động hóa quy trình triển khai thông qua **GitHub Actions** lên **GitHub Pages**.
 
-### Hình ảnh mô tả:
-*(Dưới đây là một số hình ảnh về giao diện website)*
-
-| Trang chủ (Hero Section) | Dự án (Projects) |
-| :---: | :---: |
-| ![Home Screenshot](https://raw.githubusercontent.com/MinhTan210905/MinhTan210905.github.io/master/public/android-chrome-384x384.png) | ![Projects Screenshot](https://placehold.co/400x250?text=Projects+Section) |
-
-| Chứng chỉ (Certifications) | Thông tin liên hệ |
-| :---: | :---: |
-| ![Certs Screenshot](https://placehold.co/400x250?text=Certifications) | ![Contact Screenshot](https://placehold.co/400x250?text=Contact+Section) |
-
-> **Lưu ý:** Bạn có thể thay thế các link ảnh trên bằng ảnh chụp màn hình thực tế sau khi đã deploy.
+### Hình ảnh mô tả
+*(Vui lòng xem trực tiếp giao diện chuyên nghiệp trên website chính thức)*
 
 ---
 
