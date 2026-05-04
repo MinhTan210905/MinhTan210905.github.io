@@ -99,7 +99,7 @@ const educationInfo = {
   schools: [
     {
       schoolName: "Trường Đại học Sư phạm TP. Hồ Chí Minh (HCMUE)",
-      logo: "",
+      logo: "https://upload.wikimedia.org/wikipedia/vi/a/a9/HCMUE_logo.png",
       subHeader:
         "Song ngành: Cử nhân Công nghệ Thông tin & Cử nhân Sư phạm Tin học",
       duration: "2023 - Nay",
